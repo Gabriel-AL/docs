@@ -356,7 +356,7 @@ Shopware.Component.register('swag-basic-example', {
 
 ### Working with lazy loaded associations
 
-In most cases, _ToMany_ associations can be loaded by adding a the association with the `.addAsscoiation()` method of the Criteria object.
+In most cases, _ToMany_ associations can be loaded by adding a the association with the `.addAssociation()` method of the Criteria object.
 
 ```javascript
 Shopware.Component.register('swag-basic-example', {
